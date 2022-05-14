@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=170&section=header&text=SangjunCha%20Github&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
+<h3 align="center">Hi there 👋</h3>
+
 <h2 align="center">Technology</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-brightgreen"/>&nbsp
