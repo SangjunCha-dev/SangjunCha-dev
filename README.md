@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-Redis-black"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
