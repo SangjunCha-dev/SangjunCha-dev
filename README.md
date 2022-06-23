@@ -6,14 +6,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-brightgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Go-brightgreen"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-PostgreDB-blue"/>&nbsp
+  <img src="https://img.shields.io/badge/-Redis-blue"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Redis-black"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
